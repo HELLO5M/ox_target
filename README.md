@@ -3,12 +3,6 @@
 
 # ox_target
 
-![](https://img.shields.io/github/downloads/communityox/ox_target/total?logo=github)
-![](https://img.shields.io/github/downloads/communityox/ox_target/latest/total?logo=github)
-![](https://img.shields.io/github/contributors/communityox/ox_target?logo=github)
-![](https://img.shields.io/github/v/release/communityox/ox_target?logo=github) 
-
-
 A performant and flexible standalone "third-eye" targeting resource, with additional functionality for supported frameworks.
 
 ox_target is the successor to qtarget, which was a mostly-compatible fork of bt-target.
